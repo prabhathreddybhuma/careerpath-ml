@@ -1,0 +1,201 @@
+UserID,Degree,Course,Specialization,Skills,Interests,Recommended_Career_Path
+1,M.Tech,Computer Science and Engineering,Software Engineering,"Java, System Design, C++","Software Development, System Design",Backend Developer
+2,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Machine Learning, TensorFlow, Scikit-learn, Python","Machine Learning, AI",Machine Learning Engineer
+3,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Python, PyTorch, NLP",Machine Learning,AI Engineer
+4,B.Tech,Computer Science and Engineering,Information Technology,"IT Support, Networking, SQL, Linux",Networking,IT Analyst
+5,B.Tech,Computer Science and Engineering,Big Data Analytics,"Data Mining, SQL, Python, Data Visualization, R",Business Intelligence,Data Scientist
+6,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Machine Learning, PyTorch, TensorFlow, Deep Learning, NLP",Machine Learning,AI Engineer
+7,M.Tech,Computer Science and Engineering,Cognitive Computing,"NLP, Machine Learning, IBM Watson, Python, AI",Cognitive Systems,AI Researcher
+8,B.Tech,Computer Science and Engineering,Cognitive Computing,"AI, Python, Cognitive Services",Human-Computer Interaction,NLP Engineer
+9,M.Tech,Computer Science and Engineering,Big Data Analytics,"Python, SQL, Data Mining, R",Big Data,Data Analyst
+10,M.Tech,Computer Science and Engineering,Blockchain Technology,"Smart Contracts, Cryptography, Python, Solidity","Decentralized Apps, Blockchain",Blockchain Analyst
+11,B.Tech,Computer Science and Engineering,Software Engineering,"System Design, Git, C++, Agile","System Design, Software Development",Software Engineer
+12,M.Tech,Computer Science and Engineering,Gaming Technology,"Unreal Engine, Game Design, C#, C++","Game Design, Gaming",Game Designer
+13,M.Tech,Computer Science and Engineering,Information Technology,"System Administration, Python, IT Support, Networking, Linux",IT,IT Analyst
+14,B.Tech,Computer Science and Engineering,Gaming Technology,"Unreal Engine, Unity, 3D Modeling, C#, Game Design","Game Design, Virtual Reality",3D Artist
+15,M.Tech,Computer Science and Engineering,Information Technology,"IT Support, Networking, System Administration, Linux","Networking, IT",Technical Support Engineer
+16,M.Tech,Computer Science and Engineering,Blockchain Technology,"Ethereum, Smart Contracts, Solidity, Blockchain, Cryptography","Decentralized Apps, Blockchain",Blockchain Developer
+17,B.Tech,Computer Science and Engineering,Big Data Analytics,"SQL, Hadoop, Python, Data Visualization","Big Data, Business Intelligence",Data Analyst
+18,B.Tech,Computer Science and Engineering,Blockchain Technology,"Cryptography, Solidity, Blockchain, Ethereum, Python",Decentralized Apps,Smart Contract Developer
+19,B.Tech,Computer Science and Engineering,Blockchain Technology,"Smart Contracts, Ethereum, Cryptography",Blockchain,Smart Contract Developer
+20,B.Tech,Computer Science and Engineering,Blockchain Technology,"Ethereum, Solidity, Blockchain, Smart Contracts, Cryptography","Blockchain, Decentralized Apps",Blockchain Analyst
+21,B.Tech,Computer Science and Engineering,Information Technology,"IT Support, Networking, SQL, System Administration, Python",Systems,IT Analyst
+22,B.Tech,Computer Science and Engineering,Cyber Security,"Ethical Hacking, Firewalls, Penetration Testing, Python, Cryptography",Ethical Hacking,Penetration Tester
+23,M.Tech,Computer Science and Engineering,Cloud Computing,"Azure, Docker, Google Cloud, AWS, Kubernetes",Cloud,DevOps Engineer
+24,M.Tech,Computer Science and Engineering,Big Data Analytics,"SQL, Data Visualization, Data Mining",Big Data,Data Scientist
+25,B.Tech,Computer Science and Engineering,Big Data Analytics,"Spark, Hadoop, Data Visualization, SQL",Data Analysis,Big Data Engineer
+26,M.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Ethereum, Solidity, Python, Smart Contracts","Decentralized Apps, Blockchain",Blockchain Developer
+27,M.Tech,Computer Science and Engineering,Information Technology,"Linux, Python, System Administration","Networking, IT",IT Analyst
+28,M.Tech,Computer Science and Engineering,Gaming Technology,"Game Design, Unreal Engine, Unity, C#, 3D Modeling","Virtual Reality, Game Design",3D Artist
+29,M.Tech,Computer Science and Engineering,Cognitive Computing,"Cognitive Services, Machine Learning, Python, NLP",AI,AI Researcher
+30,B.Tech,Computer Science and Engineering,Information Technology,"SQL, Linux, Networking, System Administration",Systems,IT Analyst
+31,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Machine Learning, Scikit-learn, NLP",Robotics,Machine Learning Engineer
+32,M.Tech,Computer Science and Engineering,Gaming Technology,"C++, Game Design, Unity, 3D Modeling",Gaming,Game Designer
+33,M.Tech,Computer Science and Engineering,Cognitive Computing,"IBM Watson, AI, Python","AI, Cognitive Systems",NLP Engineer
+34,M.Tech,Computer Science and Engineering,Information Technology,"SQL, System Administration, Networking",Networking,System Administrator
+35,M.Tech,Computer Science and Engineering,Big Data Analytics,"Python, SQL, Hadoop",Business Intelligence,Data Scientist
+36,B.Tech,Computer Science and Engineering,Cognitive Computing,"NLP, Cognitive Services, Machine Learning, IBM Watson, AI",Human-Computer Interaction,AI Researcher
+37,B.Tech,Computer Science and Engineering,Gaming Technology,"3D Modeling, Unreal Engine, Unity, Game Design",Gaming,Game Developer
+38,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Python, Deep Learning, Scikit-learn, NLP",Machine Learning,Machine Learning Engineer
+39,B.Tech,Computer Science and Engineering,Big Data Analytics,"Data Mining, Python, SQL, Data Visualization","Big Data, Business Intelligence",Data Scientist
+40,B.Tech,Computer Science and Engineering,Cloud Computing,"Terraform, Docker, Azure, AWS, DevOps","DevOps, Infrastructure",DevOps Engineer
+41,B.Tech,Computer Science and Engineering,Cognitive Computing,"AI, IBM Watson, Cognitive Services, Python",AI,AI Researcher
+42,B.Tech,Computer Science and Engineering,Gaming Technology,"3D Modeling, Unity, C++",Virtual Reality,Game Developer
+43,M.Tech,Computer Science and Engineering,Cloud Computing,"Kubernetes, DevOps, Azure, Google Cloud, Terraform","Cloud, DevOps",DevOps Engineer
+44,M.Tech,Computer Science and Engineering,Cognitive Computing,"IBM Watson, Machine Learning, Python","Human-Computer Interaction, Cognitive Systems",NLP Engineer
+45,M.Tech,Computer Science and Engineering,Gaming Technology,"3D Modeling, C#, Game Design, Unreal Engine","Game Design, Virtual Reality",Game Designer
+46,B.Tech,Computer Science and Engineering,Big Data Analytics,"Data Visualization, SQL, Spark, Hadoop","Big Data, Data Analysis",Big Data Engineer
+47,B.Tech,Computer Science and Engineering,Big Data Analytics,"R, SQL, Data Visualization, Hadoop",Business Intelligence,Data Analyst
+48,B.Tech,Computer Science and Engineering,Cloud Computing,"Azure, Google Cloud, Docker, DevOps, AWS",DevOps,DevOps Engineer
+49,B.Tech,Computer Science and Engineering,Cyber Security,"Network Security, Cryptography, Firewalls, Penetration Testing, Ethical Hacking","Information Security, Cyber Security",Cyber Security Analyst
+50,B.Tech,Computer Science and Engineering,Information Technology,"Python, SQL, IT Support, Networking",IT,Technical Support Engineer
+51,M.Tech,Computer Science and Engineering,Blockchain Technology,"Ethereum, Python, Smart Contracts, Blockchain","Fintech, Blockchain",Smart Contract Developer
+52,B.Tech,Computer Science and Engineering,Blockchain Technology,"Solidity, Ethereum, Cryptography, Blockchain","Decentralized Apps, Blockchain",Smart Contract Developer
+53,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"TensorFlow, Scikit-learn, Python",Robotics,Machine Learning Engineer
+54,M.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Cryptography, Solidity, Python, Ethereum",Fintech,Blockchain Developer
+55,M.Tech,Computer Science and Engineering,Gaming Technology,"Unreal Engine, C#, C++, 3D Modeling","Game Design, Gaming",3D Artist
+56,B.Tech,Computer Science and Engineering,Information Technology,"Networking, Linux, IT Support","Systems, IT",System Administrator
+57,B.Tech,Computer Science and Engineering,Software Engineering,"Agile, Git, Java, C++, System Design","Software Development, System Design",Full Stack Developer
+58,M.Tech,Computer Science and Engineering,Cognitive Computing,"Python, AI, Cognitive Services, NLP, IBM Watson",Human-Computer Interaction,Cognitive Computing Specialist
+59,M.Tech,Computer Science and Engineering,Cyber Security,"Cryptography, Ethical Hacking, Firewalls","Cyber Security, Information Security",Security Consultant
+60,M.Tech,Computer Science and Engineering,Software Engineering,"System Design, Java, Agile",Software Development,Software Engineer
+61,B.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Python, Ethereum, Solidity",Fintech,Blockchain Analyst
+62,B.Tech,Computer Science and Engineering,Gaming Technology,"Unreal Engine, 3D Modeling, C++, Game Design",Game Design,Game Designer
+63,B.Tech,Computer Science and Engineering,Blockchain Technology,"Solidity, Python, Cryptography, Smart Contracts, Ethereum",Blockchain,Smart Contract Developer
+64,M.Tech,Computer Science and Engineering,Gaming Technology,"C++, Game Design, C#, Unreal Engine, 3D Modeling","Virtual Reality, Game Design",Game Developer
+65,B.Tech,Computer Science and Engineering,Cyber Security,"Ethical Hacking, Penetration Testing, Cryptography","Information Security, Ethical Hacking",Penetration Tester
+66,M.Tech,Computer Science and Engineering,Cloud Computing,"Docker, Kubernetes, Terraform",DevOps,DevOps Engineer
+67,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Scikit-learn, PyTorch, TensorFlow",AI,Machine Learning Engineer
+68,M.Tech,Computer Science and Engineering,Blockchain Technology,"Cryptography, Ethereum, Blockchain",Decentralized Apps,Smart Contract Developer
+69,B.Tech,Computer Science and Engineering,Software Engineering,"Git, C++, System Design","System Design, Agile",Full Stack Developer
+70,B.Tech,Computer Science and Engineering,Cyber Security,"Firewalls, Cryptography, Penetration Testing","Ethical Hacking, Cyber Security",Penetration Tester
+71,M.Tech,Computer Science and Engineering,Cyber Security,"Network Security, Cryptography, Penetration Testing",Information Security,Penetration Tester
+72,M.Tech,Computer Science and Engineering,Information Technology,"Python, IT Support, Linux","Networking, Systems",Technical Support Engineer
+73,B.Tech,Computer Science and Engineering,Cyber Security,"Ethical Hacking, Python, Cryptography, Penetration Testing, Firewalls",Cyber Security,Security Consultant
+74,B.Tech,Computer Science and Engineering,Cloud Computing,"Terraform, Docker, Kubernetes, Google Cloud, Azure",Cloud,Cloud Engineer
+75,B.Tech,Computer Science and Engineering,Software Engineering,"Java, C++, System Design, Agile",System Design,Backend Developer
+76,M.Tech,Computer Science and Engineering,Information Technology,"IT Support, System Administration, SQL","IT, Networking",Technical Support Engineer
+77,B.Tech,Computer Science and Engineering,Cognitive Computing,"Machine Learning, AI, NLP",Human-Computer Interaction,NLP Engineer
+78,M.Tech,Computer Science and Engineering,Cloud Computing,"Terraform, AWS, Kubernetes, Docker, DevOps",Cloud,DevOps Engineer
+79,B.Tech,Computer Science and Engineering,Blockchain Technology,"Solidity, Python, Ethereum",Decentralized Apps,Smart Contract Developer
+80,M.Tech,Computer Science and Engineering,Big Data Analytics,"Hadoop, R, SQL, Spark","Business Intelligence, Big Data",Big Data Engineer
+81,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Python, Scikit-learn, Deep Learning, PyTorch, TensorFlow","AI, Robotics",Machine Learning Engineer
+82,M.Tech,Computer Science and Engineering,Software Engineering,"C++, Java, Software Testing","System Design, Software Development",Software Engineer
+83,B.Tech,Computer Science and Engineering,Big Data Analytics,"Data Mining, Hadoop, Spark","Data Analysis, Business Intelligence",Data Scientist
+84,M.Tech,Computer Science and Engineering,Big Data Analytics,"Hadoop, Data Mining, Data Visualization, R, Spark","Big Data, Business Intelligence",Big Data Engineer
+85,M.Tech,Computer Science and Engineering,Big Data Analytics,"SQL, Spark, Data Mining, Python",Big Data,Data Analyst
+86,M.Tech,Computer Science and Engineering,Cloud Computing,"Kubernetes, Docker, Google Cloud, Azure",Cloud,Cloud Solutions Architect
+87,B.Tech,Computer Science and Engineering,Information Technology,"Linux, Networking, SQL, IT Support, System Administration",Systems,System Administrator
+88,M.Tech,Computer Science and Engineering,Gaming Technology,"Unreal Engine, Unity, Game Design, C++",Virtual Reality,Game Designer
+89,M.Tech,Computer Science and Engineering,Cognitive Computing,"NLP, Machine Learning, AI, IBM Watson","Human-Computer Interaction, AI",AI Researcher
+90,M.Tech,Computer Science and Engineering,Information Technology,"System Administration, Networking, IT Support, SQL",Networking,System Administrator
+91,B.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Smart Contracts, Python, Ethereum, Cryptography","Fintech, Blockchain",Blockchain Developer
+92,B.Tech,Computer Science and Engineering,Cognitive Computing,"AI, Python, Machine Learning, NLP, IBM Watson",Human-Computer Interaction,AI Researcher
+93,B.Tech,Computer Science and Engineering,Cognitive Computing,"NLP, Python, Cognitive Services, IBM Watson",AI,Cognitive Computing Specialist
+94,B.Tech,Computer Science and Engineering,Cloud Computing,"DevOps, Terraform, Kubernetes, Google Cloud",Cloud,DevOps Engineer
+95,M.Tech,Computer Science and Engineering,Cognitive Computing,"IBM Watson, AI, Python, Cognitive Services",AI,Cognitive Computing Specialist
+96,B.Tech,Computer Science and Engineering,Information Technology,"SQL, Python, System Administration, IT Support",IT,System Administrator
+97,B.Tech,Computer Science and Engineering,Gaming Technology,"C#, Unity, Unreal Engine, C++, 3D Modeling","Virtual Reality, Game Design",Game Developer
+98,B.Tech,Computer Science and Engineering,Cognitive Computing,"IBM Watson, Cognitive Services, Python, AI, Machine Learning",Cognitive Systems,Cognitive Computing Specialist
+99,B.Tech,Computer Science and Engineering,Cloud Computing,"AWS, DevOps, Kubernetes",Cloud,DevOps Engineer
+100,B.Tech,Computer Science and Engineering,Gaming Technology,"Game Design, 3D Modeling, Unreal Engine","Game Design, Gaming",3D Artist
+101,M.Tech,Computer Science and Engineering,Information Technology,"Networking, Python, IT Support","IT, Systems",System Administrator
+102,B.Tech,Computer Science and Engineering,Blockchain Technology,"Ethereum, Smart Contracts, Blockchain",Blockchain,Blockchain Analyst
+103,M.Tech,Computer Science and Engineering,Gaming Technology,"C++, 3D Modeling, Game Design, Unreal Engine","Game Design, Virtual Reality",Game Developer
+104,M.Tech,Computer Science and Engineering,Software Engineering,"Agile, C++, System Design, Git","Software Development, System Design",Full Stack Developer
+105,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Scikit-learn, TensorFlow, Machine Learning, PyTorch","Machine Learning, AI",Data Scientist
+106,M.Tech,Computer Science and Engineering,Gaming Technology,"Game Design, C#, 3D Modeling, C++, Unity","Gaming, Game Design",Game Designer
+107,B.Tech,Computer Science and Engineering,Cloud Computing,"AWS, Terraform, DevOps, Kubernetes",DevOps,Cloud Solutions Architect
+108,B.Tech,Computer Science and Engineering,Gaming Technology,"Unity, Game Design, Unreal Engine","Gaming, Virtual Reality",Game Designer
+109,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Deep Learning, Machine Learning, Python, NLP, PyTorch",Machine Learning,Machine Learning Engineer
+110,B.Tech,Computer Science and Engineering,Cloud Computing,"Google Cloud, Kubernetes, Docker, Terraform",Infrastructure,DevOps Engineer
+111,B.Tech,Computer Science and Engineering,Cyber Security,"Python, Ethical Hacking, Penetration Testing, Cryptography, Firewalls",Information Security,Penetration Tester
+112,M.Tech,Computer Science and Engineering,Big Data Analytics,"Data Visualization, SQL, Python, Hadoop, R","Big Data, Business Intelligence",Data Analyst
+113,M.Tech,Computer Science and Engineering,Big Data Analytics,"Spark, SQL, Hadoop, R, Data Mining",Big Data,Data Scientist
+114,B.Tech,Computer Science and Engineering,Big Data Analytics,"SQL, Hadoop, R, Python, Data Visualization","Business Intelligence, Data Analysis",Data Scientist
+115,M.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Solidity, Python",Fintech,Blockchain Analyst
+116,M.Tech,Computer Science and Engineering,Gaming Technology,"C++, Unreal Engine, C#, 3D Modeling",Virtual Reality,Game Designer
+117,M.Tech,Computer Science and Engineering,Gaming Technology,"C#, Game Design, 3D Modeling, C++, Unreal Engine",Gaming,Game Designer
+118,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Machine Learning, Python, Deep Learning, PyTorch",AI,Machine Learning Engineer
+119,M.Tech,Computer Science and Engineering,Cognitive Computing,"AI, Python, NLP, Machine Learning, IBM Watson","AI, Human-Computer Interaction",NLP Engineer
+120,M.Tech,Computer Science and Engineering,Cyber Security,"Penetration Testing, Ethical Hacking, Python, Firewalls, Network Security","Cyber Security, Information Security",Cyber Security Analyst
+121,B.Tech,Computer Science and Engineering,Information Technology,"Networking, SQL, Python","Networking, IT",IT Analyst
+122,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"TensorFlow, PyTorch, NLP, Machine Learning, Python",Machine Learning,AI Engineer
+123,B.Tech,Computer Science and Engineering,Software Engineering,"C++, Agile, Software Testing",Software Development,Backend Developer
+124,M.Tech,Computer Science and Engineering,Big Data Analytics,"Data Visualization, R, Data Mining, Python, Hadoop","Data Analysis, Business Intelligence",Big Data Engineer
+125,B.Tech,Computer Science and Engineering,Information Technology,"System Administration, Networking, IT Support, Linux, SQL",Systems,Technical Support Engineer
+126,M.Tech,Computer Science and Engineering,Cognitive Computing,"Cognitive Services, Machine Learning, Python, NLP, AI","Cognitive Systems, Human-Computer Interaction",Cognitive Computing Specialist
+127,B.Tech,Computer Science and Engineering,Blockchain Technology,"Solidity, Blockchain, Smart Contracts, Cryptography, Python","Decentralized Apps, Fintech",Blockchain Developer
+128,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Python, NLP, Deep Learning",AI,Data Scientist
+129,B.Tech,Computer Science and Engineering,Cloud Computing,"Google Cloud, Kubernetes, Azure","Infrastructure, DevOps",Cloud Engineer
+130,B.Tech,Computer Science and Engineering,Blockchain Technology,"Smart Contracts, Blockchain, Cryptography, Python, Ethereum",Fintech,Blockchain Analyst
+131,M.Tech,Computer Science and Engineering,Big Data Analytics,"Spark, Data Visualization, Python, SQL, Data Mining","Business Intelligence, Big Data",Data Scientist
+132,M.Tech,Computer Science and Engineering,Software Engineering,"Agile, Git, C++, Software Testing","System Design, Agile",Software Engineer
+133,B.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Python, Cryptography, Solidity, Smart Contracts","Blockchain, Decentralized Apps",Blockchain Developer
+134,B.Tech,Computer Science and Engineering,Information Technology,"SQL, IT Support, Networking, System Administration, Python","Systems, IT",IT Analyst
+135,M.Tech,Computer Science and Engineering,Cloud Computing,"AWS, Azure, DevOps, Terraform",Infrastructure,Cloud Engineer
+136,M.Tech,Computer Science and Engineering,Blockchain Technology,"Ethereum, Smart Contracts, Blockchain, Cryptography",Fintech,Smart Contract Developer
+137,M.Tech,Computer Science and Engineering,Cognitive Computing,"Machine Learning, AI, NLP, Cognitive Services, Python","AI, Cognitive Systems",Cognitive Computing Specialist
+138,B.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Ethereum, Solidity, Smart Contracts",Blockchain,Blockchain Developer
+139,B.Tech,Computer Science and Engineering,Gaming Technology,"Unity, Unreal Engine, C++",Virtual Reality,3D Artist
+140,M.Tech,Computer Science and Engineering,Software Engineering,"Software Testing, C++, System Design, Agile, Java",Software Development,Backend Developer
+141,M.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Python, Cryptography, Solidity",Decentralized Apps,Blockchain Analyst
+142,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Machine Learning, NLP, Python, Scikit-learn",Machine Learning,AI Engineer
+143,B.Tech,Computer Science and Engineering,Information Technology,"Python, Networking, SQL",IT,System Administrator
+144,B.Tech,Computer Science and Engineering,Cloud Computing,"Docker, AWS, Kubernetes","DevOps, Cloud",Cloud Engineer
+145,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"TensorFlow, Scikit-learn, PyTorch, Deep Learning, Machine Learning","Robotics, Machine Learning",Machine Learning Engineer
+146,B.Tech,Computer Science and Engineering,Cyber Security,"Python, Penetration Testing, Network Security, Firewalls, Cryptography",Ethical Hacking,Security Consultant
+147,M.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"PyTorch, Machine Learning, Scikit-learn, Deep Learning",Robotics,Machine Learning Engineer
+148,M.Tech,Computer Science and Engineering,Blockchain Technology,"Python, Smart Contracts, Blockchain, Ethereum","Decentralized Apps, Blockchain",Blockchain Analyst
+149,B.Tech,Computer Science and Engineering,Blockchain Technology,"Cryptography, Ethereum, Smart Contracts","Fintech, Blockchain",Blockchain Developer
+150,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"NLP, Machine Learning, Deep Learning",AI,AI Engineer
+151,B.Tech,Computer Science and Engineering,Gaming Technology,"3D Modeling, Unreal Engine, C++","Virtual Reality, Game Design",Game Developer
+152,M.Tech,Computer Science and Engineering,Blockchain Technology,"Solidity, Cryptography, Python","Blockchain, Decentralized Apps",Blockchain Analyst
+153,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Deep Learning, TensorFlow, PyTorch, Python, Scikit-learn",AI,Data Scientist
+154,B.Tech,Computer Science and Engineering,Big Data Analytics,"Spark, Data Mining, Data Visualization, SQL, Hadoop",Big Data,Data Analyst
+155,M.Tech,Computer Science and Engineering,Blockchain Technology,"Cryptography, Blockchain, Solidity",Decentralized Apps,Blockchain Analyst
+156,B.Tech,Computer Science and Engineering,Cyber Security,"Firewalls, Python, Network Security, Ethical Hacking","Cyber Security, Information Security",Penetration Tester
+157,M.Tech,Computer Science and Engineering,Blockchain Technology,"Blockchain, Solidity, Cryptography, Ethereum",Blockchain,Blockchain Analyst
+158,B.Tech,Computer Science and Engineering,Big Data Analytics,"Data Visualization, R, Python",Big Data,Data Analyst
+159,B.Tech,Computer Science and Engineering,Cloud Computing,"Docker, Terraform, Kubernetes","Infrastructure, Cloud",DevOps Engineer
+160,M.Tech,Computer Science and Engineering,Blockchain Technology,"Python, Blockchain, Ethereum","Fintech, Blockchain",Blockchain Developer
+161,M.Tech,Computer Science and Engineering,Cyber Security,"Cryptography, Ethical Hacking, Python","Cyber Security, Ethical Hacking",Penetration Tester
+162,M.Tech,Computer Science and Engineering,Cognitive Computing,"AI, NLP, Python, IBM Watson, Machine Learning",Cognitive Systems,AI Researcher
+163,M.Tech,Computer Science and Engineering,Software Engineering,"System Design, Git, C++, Agile",System Design,Software Engineer
+164,B.Tech,Computer Science and Engineering,Gaming Technology,"C++, Game Design, 3D Modeling, C#, Unity","Virtual Reality, Game Design",Game Developer
+165,B.Tech,Computer Science and Engineering,Cyber Security,"Python, Penetration Testing, Firewalls",Cyber Security,Security Consultant
+166,B.Tech,Computer Science and Engineering,Gaming Technology,"Unity, 3D Modeling, C#, Unreal Engine","Gaming, Game Design",Game Developer
+167,M.Tech,Computer Science and Engineering,Big Data Analytics,"Data Mining, R, Python, Spark, Data Visualization","Big Data, Data Analysis",Big Data Engineer
+168,M.Tech,Computer Science and Engineering,Blockchain Technology,"Cryptography, Smart Contracts, Solidity","Fintech, Decentralized Apps",Blockchain Developer
+169,M.Tech,Computer Science and Engineering,Software Engineering,"Git, C++, Java, Software Testing, Agile","System Design, Agile",Software Engineer
+170,M.Tech,Computer Science and Engineering,Blockchain Technology,"Solidity, Smart Contracts, Cryptography, Blockchain, Ethereum","Blockchain, Decentralized Apps",Blockchain Analyst
+171,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"PyTorch, Python, Deep Learning, TensorFlow","AI, Machine Learning",Data Scientist
+172,B.Tech,Computer Science and Engineering,Information Technology,"SQL, Linux, Networking, Python",IT,Technical Support Engineer
+173,B.Tech,Computer Science and Engineering,Big Data Analytics,"Data Visualization, Hadoop, Python","Data Analysis, Business Intelligence",Big Data Engineer
+174,B.Tech,Computer Science and Engineering,Cognitive Computing,"IBM Watson, Machine Learning, Python","Human-Computer Interaction, AI",AI Researcher
+175,B.Tech,Computer Science and Engineering,Cloud Computing,"Docker, Terraform, Google Cloud",Cloud,DevOps Engineer
+176,B.Tech,Computer Science and Engineering,Big Data Analytics,"Hadoop, R, SQL, Python",Business Intelligence,Data Analyst
+177,B.Tech,Computer Science and Engineering,Big Data Analytics,"Hadoop, Spark, Data Visualization, SQL","Data Analysis, Business Intelligence",Big Data Engineer
+178,B.Tech,Computer Science and Engineering,Cognitive Computing,"Python, Cognitive Services, NLP","Human-Computer Interaction, AI",AI Researcher
+179,M.Tech,Computer Science and Engineering,Blockchain Technology,"Ethereum, Blockchain, Cryptography, Smart Contracts, Python",Decentralized Apps,Blockchain Analyst
+180,B.Tech,Computer Science and Engineering,Software Engineering,"System Design, Agile, C++, Software Testing, Git","System Design, Software Development",Software Engineer
+181,B.Tech,Computer Science and Engineering,Blockchain Technology,"Solidity, Ethereum, Smart Contracts, Cryptography",Blockchain,Blockchain Analyst
+182,B.Tech,Computer Science and Engineering,Cognitive Computing,"Cognitive Services, IBM Watson, Python","AI, Cognitive Systems",Cognitive Computing Specialist
+183,M.Tech,Computer Science and Engineering,Cognitive Computing,"Cognitive Services, IBM Watson, Python, NLP","Human-Computer Interaction, AI",NLP Engineer
+184,B.Tech,Computer Science and Engineering,Gaming Technology,"C#, Unreal Engine, Unity, 3D Modeling, C++","Game Design, Virtual Reality",3D Artist
+185,B.Tech,Computer Science and Engineering,Cognitive Computing,"Cognitive Services, Python, AI, IBM Watson","AI, Human-Computer Interaction",AI Researcher
+186,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Python, Deep Learning, Machine Learning, TensorFlow, NLP","AI, Robotics",Machine Learning Engineer
+187,M.Tech,Computer Science and Engineering,Gaming Technology,"3D Modeling, Unreal Engine, C++, Game Design",Game Design,3D Artist
+188,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"PyTorch, Scikit-learn, Deep Learning, Python, Machine Learning",Machine Learning,Data Scientist
+189,B.Tech,Computer Science and Engineering,Big Data Analytics,"Python, Data Mining, SQL",Data Analysis,Data Scientist
+190,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"Machine Learning, Python, PyTorch","AI, Machine Learning",AI Engineer
+191,M.Tech,Computer Science and Engineering,Big Data Analytics,"Hadoop, Data Mining, R","Business Intelligence, Big Data",Data Analyst
+192,B.Tech,Computer Science and Engineering,Big Data Analytics,"Python, Hadoop, Data Visualization, Spark",Data Analysis,Big Data Engineer
+193,M.Tech,Computer Science and Engineering,Cyber Security,"Penetration Testing, Ethical Hacking, Network Security, Firewalls, Cryptography","Ethical Hacking, Information Security",Cyber Security Analyst
+194,M.Tech,Computer Science and Engineering,Cyber Security,"Firewalls, Python, Penetration Testing, Ethical Hacking, Cryptography",Ethical Hacking,Cyber Security Analyst
+195,B.Tech,Computer Science and Engineering,Artificial Intelligence and Machine Learning,"TensorFlow, NLP, Deep Learning, Machine Learning, Python","Robotics, AI",Data Scientist
+196,M.Tech,Computer Science and Engineering,Cyber Security,"Penetration Testing, Ethical Hacking, Cryptography, Firewalls, Network Security","Ethical Hacking, Information Security",Penetration Tester
+197,B.Tech,Computer Science and Engineering,Blockchain Technology,"Solidity, Ethereum, Blockchain, Python","Fintech, Blockchain",Smart Contract Developer
+198,M.Tech,Computer Science and Engineering,Information Technology,"System Administration, SQL, IT Support, Networking",IT,Technical Support Engineer
+199,B.Tech,Computer Science and Engineering,Cloud Computing,"Docker, Google Cloud, Kubernetes",Infrastructure,Cloud Engineer
+200,B.Tech,Computer Science and Engineering,Gaming Technology,"C++, C#, Unreal Engine, Game Design, 3D Modeling",Virtual Reality,Game Developer
